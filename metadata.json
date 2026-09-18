@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Phần mềm học tập Trí Việt",
+  "description": "Khai mở tri thức, định hình tương lai.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
